@@ -139,7 +139,8 @@ while True:
             print("\nStudent not found.")
 
     elif choice == "2":
-        pass
+        # Add a new student
+        add_student()
 
     elif choice == "3":
         print("Goodbye!")
